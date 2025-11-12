@@ -4,12 +4,12 @@
 
 Futuristic underwater buildings that are made out of mainly curved and round components.
 
-!["subnautica base"](res/sub3.jpg)
+!["subnautica base"](src/sub3.jpg)
 
 These bases are made out of mainly 2 types of components: Round large rooms and cylindrical tubes, the tubes come in standard I-variants, curved L-variants, as well as T and + shapes. the rooms have 6 sides connections that can either act as connections or have a window / reinforcement plane attached to them.
 
-!["subnautica base"](res/sub1.jpg)
-!["subnautica base"](res/sub2.jpg)
+!["subnautica base"](src/sub1.jpg)
+!["subnautica base"](src/sub2.jpg)
 
 Main assets are the two type of base rooms (tube/large room)
 windows / reinforcement planes / entrance (hatch)
@@ -20,11 +20,11 @@ and also long pilalrs that connect the components to the surrounding terrain.
 
 Medival Sandstone Buildings, with well decorated windows, archways, they usually have a triangular roof and distinct base that often includes an entrance to the basement.
 
-!["bern old city"](res/bern1.jpg)
+!["bern old city"](src/bern1.jpg)
 
 These buildings have a variety of differently shaped but well layed out windows, almost all of them include a very tiny balcony overhang.
 
 The base floor is usually a roofed walkway with archways that you can access by going up a few stairsteps from the main street, next to that staircase is usually another staircase that leads to the basement.
 
-!["bern old city"](res/bern2.png)
-!["bern old city"](res/bern3.png)
+!["bern old city"](src/bern2.png)
+!["bern old city"](src/bern3.png)
