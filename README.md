@@ -1,12 +1,6 @@
-# Procedural Building Generation
+# Building Concept Lab Submission - Nico Kong
 
-## Submission 1
-
-Due to time reasons, the current submission just includes a basic building tool that resembles the tutorial.
-
-## Target Visual Style
-
-### Option 1: Subnautica Bases
+## Option 1: Subnautica Bases
 
 Futuristic underwater buildings that are made out of mainly curved and round components.
 
@@ -22,7 +16,7 @@ windows / reinforcement planes / entrance (hatch)
 There are usually yellow handrails around the building,
 and also long pilalrs that connect the components to the surrounding terrain.
 
-### Option 2: Old city of Bern
+## Option 2: Old city of Bern
 
 Medival Sandstone Buildings, with well decorated windows, archways, they usually have a triangular roof and distinct base that often includes an entrance to the basement.
 
@@ -34,5 +28,3 @@ The base floor is usually a roofed walkway with archways that you can access by 
 
 !["bern old city"](res/bern2.png)
 !["bern old city"](res/bern3.png)
-
-# Next.. Implementation...
