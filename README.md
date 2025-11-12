@@ -1,6 +1,19 @@
 # Building Concept Lab Submission - Nico Kong
 
-## Option 1: Subnautica Bases
+## Option 1: Old city of Bern
+
+Medival Sandstone Buildings, with well decorated windows, archways, they usually have a triangular roof and distinct base that often includes an entrance to the basement.
+
+!["bern old city"](src/bern1.jpg)
+
+These buildings have a variety of differently shaped but well layed out windows, almost all of them include a very tiny balcony overhang.
+
+The base floor is usually a roofed walkway with archways that you can access by going up a few stairsteps from the main street, next to that staircase is usually another staircase that leads to the basement.
+
+!["bern old city"](src/bern2.png)
+!["bern old city"](src/bern3.png)
+
+## Option 2: Subnautica Bases
 
 Futuristic underwater buildings that are made out of mainly curved and round components.
 
@@ -15,16 +28,3 @@ Main assets are the two type of base rooms (tube/large room)
 windows / reinforcement planes / entrance (hatch)
 There are usually yellow handrails around the building,
 and also long pilalrs that connect the components to the surrounding terrain.
-
-## Option 2: Old city of Bern
-
-Medival Sandstone Buildings, with well decorated windows, archways, they usually have a triangular roof and distinct base that often includes an entrance to the basement.
-
-!["bern old city"](src/bern1.jpg)
-
-These buildings have a variety of differently shaped but well layed out windows, almost all of them include a very tiny balcony overhang.
-
-The base floor is usually a roofed walkway with archways that you can access by going up a few stairsteps from the main street, next to that staircase is usually another staircase that leads to the basement.
-
-!["bern old city"](src/bern2.png)
-!["bern old city"](src/bern3.png)
